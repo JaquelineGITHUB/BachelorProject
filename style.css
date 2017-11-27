@@ -1,0 +1,24 @@
+/*
+ Theme Name:   Virtue Child
+ Description:  Mein erstes Child Theme
+ Author:       Jaqueline Pelzer
+ Template:     virtue
+ Version:      3.0.9
+ Text Domain:  virtue-child
+*/
+
+@import url("../virtue/style.css");
+
+.navclass {
+    background: #104E8B;
+}
+
+
+.sf-menu a {
+    color: #fff;
+}
+
+
+.sf-menu a:hover {   
+    background: #E7BE56;
+}
